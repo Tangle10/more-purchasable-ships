@@ -1,3 +1,2 @@
-name "Enter the name of your plugin here. The name will be displayed in the list of plugins when you install it."
-about "Enter some text that describes your plugin here. This text will be displayed in the plugin description box when you have installed and selected your plugin."
-about "Use multiple 'about' nodes to create new paragraphs in the description box, if necessary."
+name "More Purchasable Ships"
+about "This plugin currently makes it possible to buy the Enforcer and Saber, which otherwise only show up in the far South of Human Space as capturable ships. It also adds the five modified Pirate ships which either languish unused in the game's code or show up exactly once."
