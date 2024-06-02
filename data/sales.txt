@@ -1,0 +1,41 @@
+# Copyright (c) 2024 by Elia Rowan
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE. See the GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <https://www.gnu.org/licenses/>.
+
+# adds to Mordente-Bridi, Smuggler's Den, and Greenrock; previously CCOR Basic
+shipyard "Advanced Southern Pirates"
+	"Beserker"
+	"Enforcer"
+	"Saber"
+
+shipyard "Advanced Southern Pirates"
+	"Bulwark"
+	"Cutthroat"
+	"Nighthawk"
+	
+# adds to Haven
+shipyard "Advanced Northern Pirates"
+	"Mammoth"
+	"Nighthawk"
+	"Valkyrie"
+#	"Cutlass"
+	
+# adds to Smuggler's Den, Buccaneer Bay, New Tortuga
+shipyard "Advanced Core Pirates"
+	"Cutthroat"
+#	"Ironclad"
+#	"Hornet"
+#	"Mining Barge"
+
+# adds to Ada, Reunion, Chiron, Luna; maybe restrict further? flavorwise it's probably best on only Luna, but only Chiron and Ada sell other large ships... maybe just don't do it beyond Pirates at all?
+#shipyard "Tycho Crater Advanced"
+# 	"Mining Barge"
