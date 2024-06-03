@@ -13,7 +13,7 @@
 
 # adds to Mordente-Bridi, Smuggler's Den, and Greenrock; previously CCOR Basic
 shipyard "Advanced Southern Pirates"
-	"Beserker"
+	"Berserker"
 	"Enforcer"
 	"Saber"
 
