@@ -16,6 +16,7 @@ shipyard "Advanced Southern Pirates"
 	"Berserker"
 	"Enforcer"
 	"Saber"
+#	"Moonbeam"
 
 shipyard "Advanced Southern Pirates"
 	"Bulwark"
