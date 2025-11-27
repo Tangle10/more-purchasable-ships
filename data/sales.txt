@@ -1,4 +1,4 @@
-# Copyright (c) 2024 by Elia Rowan
+# Created 2024-2025 by Elia Rowan
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -11,26 +11,30 @@
 # You should have received a copy of the GNU General Public License along with
 # this program. If not, see <https://www.gnu.org/licenses/>.
 
-# adds to Mordente-Bridi, Smuggler's Den, and Greenrock; previously CCOR Basic
+# adds to Mordente-Bridi (CCOR), Smuggler's Den (south), and Greenrock (south); previously CCOR Basic
 shipyard "Advanced Southern Pirates"
 	"Berserker"
 	"Enforcer"
 	"Saber"
 #	"Moonbeam"
 
+# adds to same
 shipyard "Advanced Southern Pirates"
 	"Bulwark"
 	"Cutthroat"
+    "Jackal"
 	"Nighthawk"
 	
-# adds to Haven
+# adds to Haven (north)
 shipyard "Advanced Northern Pirates"
+    "Jackal"
 	"Mammoth"
+    "Monitor"
 	"Nighthawk"
 	"Valkyrie"
 #	"Cutlass"
 	
-# adds to Smuggler's Den, Buccaneer Bay, New Tortuga
+# adds to Smuggler's Den (south), Buccaneer Bay, and New Tortuga (core)
 shipyard "Advanced Core Pirates"
 	"Cutthroat"
 #	"Ironclad"
@@ -40,3 +44,12 @@ shipyard "Advanced Core Pirates"
 # adds to Ada, Reunion, Chiron, Luna; maybe restrict further? flavorwise it's probably best on only Luna, but only Chiron and Ada sell other large ships... maybe just don't do it beyond Pirates at all?
 #shipyard "Tycho Crater Advanced"
 # 	"Mining Barge"
+
+# adds to Smuggler's Den, Greenrock (south), Mordente-Bridi (CCOR), Buccaneer Bay, Covert, and New Tortuga (core)
+#shipyard "Southern Pirates"
+
+# adds to Freedom, Haven (north), Buccaneer Bay, New Tortuga (core), and Greenrock (south)
+shipyard "Northern Pirates"
+
+# adds to Buccaneer Bay, Covert, New Tortuga (core), Haven (north), Greenrock, and Smuggler's Den (south)
+#shipyard "Core Pirates"
